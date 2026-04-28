@@ -1,6 +1,6 @@
 ##ASSIGNMENT 3|BAGLAN NURGALI
 
-## Project Overview
+# Project Overview
 This project compares fundamental algorithms to observe how Big-O complexity affects execution time across different array sizes[cite: 1, 3, 4].
 
 ## Algorithm Descriptions
