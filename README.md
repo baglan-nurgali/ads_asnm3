@@ -42,4 +42,4 @@ Experiment.java: Performance testing.
 Main.java: Application entry point.
 
 Screenshot:
-![](ads.png)
+![](screenshots/ads.png)
